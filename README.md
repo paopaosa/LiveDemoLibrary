@@ -1,3 +1,3 @@
 # LiveDemoLibrary
 
-A description of this package.
+A demo library for using it.
